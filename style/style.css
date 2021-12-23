@@ -190,6 +190,8 @@ section {
 
 .home .pic_1 {
   background: url(../img/ban/n2.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 .home .pic_2 {
@@ -220,7 +222,7 @@ section {
 
 .home .slide .content span {
   font-size: 3rem;
-  color: #fdfafa;
+  color: #666;
   -webkit-box-shadow: 0.5rem 1rem rgba(0, 0, 0, 0.1);
           box-shadow: 0.5rem 1rem rgba(0, 0, 0, 0.1);
   font-weight: 700;

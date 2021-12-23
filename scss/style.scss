@@ -186,6 +186,8 @@ section{
 
   .pic_1{
      background:url(../img/ban/n2.jpg) no-repeat;
+     background-position: center;
+     background-size: cover;
   }
   .pic_2{
     background:url(../img/ban/11.png) no-repeat;;
@@ -212,7 +214,7 @@ section{
   
       span{
         font-size: 3rem;
-        color: $white;
+        color: $light-color;
         box-shadow: $box-shadow;
         font-weight: 700;
         animation: fadeIn linear .2s backwards;
