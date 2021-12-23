@@ -188,8 +188,12 @@ section {
   padding: 0;
 }
 
+.home .pic_1 {
+  background: url(../img/ban/n2.jpg) no-repeat;
+}
+
 .home .pic_2 {
-  color: #222;
+  background: url(../img/ban/11.png) no-repeat;
 }
 
 .home .slide {
@@ -226,7 +230,7 @@ section {
 
 .home .slide .content h3 {
   font-size: 5rem;
-  color: #fdfafa;
+  color: #222;
   -webkit-box-shadow: 0.5rem 1rem rgba(0, 0, 0, 0.1);
           box-shadow: 0.5rem 1rem rgba(0, 0, 0, 0.1);
   text-transform: uppercase;
