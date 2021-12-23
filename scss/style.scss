@@ -183,7 +183,17 @@ section{
 .home{
   position: relative;
   padding: 0;
+
+  
+
+  .pic_2{
+   
+    color: $black;
+  }
+
   .slide{
+    background-size: cover;
+    background-position: center;
     padding: 2rem;
     display: flex;
     min-height: 60vh;
@@ -416,7 +426,7 @@ section{
 // banner
 .banner{
   
-  background: url(/img/11.png) no-repeat;
+  background: url(/img/ban/11.png) no-repeat;
   background-size: cover;
   background-position: center;
   
@@ -519,7 +529,7 @@ section{
 
 .message{
  
-  background: url(/img/s9.png) no-repeat; 
+  background: url(/img/ban/22.jpg) no-repeat; 
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
