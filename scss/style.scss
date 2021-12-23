@@ -426,7 +426,7 @@ section{
 // banner
 .banner{
   
-  background: url(/img/ban/11.png) no-repeat;
+  background: url(img/ban/11.png) no-repeat;
   background-size: cover;
   background-position: center;
   
@@ -465,7 +465,7 @@ section{
 
   .box-container{
 
-    @include grid((31rem));
+    @include grid(31rem);
 
    
    .box{
@@ -529,7 +529,7 @@ section{
 
 .message{
  
-  background: url(/img/ban/22.jpg) no-repeat; 
+  background: url(img/ban/22.jpg) no-repeat; 
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
