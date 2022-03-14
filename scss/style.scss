@@ -191,16 +191,11 @@ section{
   padding: 0;
 
   .pic_1{
-     background:url(../img/ban/1120.jpg) no-repeat;
-     background-position: center;
-     background-size: cover;
+   background: url(../img/ban/1120.jpg) no-repeat;
+   background-position: center;
+   background-size: cover;
   }
-  .pic_2{
-    background:url(../img/ban/ba5.jpg) no-repeat;
-    
-    
- }
-
+  
  
 
   .slide{
@@ -545,9 +540,9 @@ section{
 
 //message
 
-.message{
+#message{
  
-  background: url(../img/ban/ba6.jpg) no-repeat; 
+  background: url(../img/ban/ba5.jpg) no-repeat; 
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
