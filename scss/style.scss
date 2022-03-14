@@ -135,8 +135,7 @@ section{
     background: $light-bg;
     font-size: 1.7rem;
     color: $black;
-    max-lines: .3rem;
-    
+    max-lines: .3rem;  
     text-align: center;
     cursor: pointer;
     &:hover{
@@ -192,12 +191,12 @@ section{
   padding: 0;
 
   .pic_1{
-     background:url(../img/ban/n2.jpg) no-repeat;
+     background:url(../img/ban/1120.jpg) no-repeat;
      background-position: center;
      background-size: cover;
   }
   .pic_2{
-    background:url(../img/ban/33.png) no-repeat;
+    background:url(../img/ban/ba5.jpg) no-repeat;
     
     
  }
@@ -443,7 +442,7 @@ section{
 // banner
 .banner{
   
-  background: url(../img/ban/22.jpg) no-repeat;
+  background: url(../img/ban/ba5.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   
@@ -548,7 +547,7 @@ section{
 
 .message{
  
-  background: url(../img/ban/s9.png.png) no-repeat; 
+  background: url(../img/ban/ba6.jpg) no-repeat; 
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
